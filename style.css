@@ -26,9 +26,10 @@ html{
     color: hsl(218, 44%, 22%);
 }
 .container p {
-    color: hsl(220, 15%, 55%)
-    line-height: 1.0rem;
+    color: hsl(220, 15%, 55%);
+    line-height: 1.1rem;
     font-size: 15px;
+    font-weight: 400;
 }
 
 
