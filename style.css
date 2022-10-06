@@ -1,0 +1,47 @@
+html{
+    margin-top: 100px;
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    border-color: 
+    border: 20px solid green;
+}
+.container {
+     background-color: hsl(0, 0%, 100%);
+     border-radius: 15px;
+     Display: flex;
+     Flex-direction: column;
+     align-self: center;
+     justify-content: center;
+     width: 250px;
+     margin: auto;
+     padding: 12px;
+     align-items: center;
+}
+.container h1 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 1.4rem;
+    letter-spacing: 1.68px;
+    color: hsl(218, 44%, 22%);
+}
+.container p {
+    color: hsl(220, 15%, 55%)
+    line-height: 1.0rem;
+    font-size: 15px;
+}
+
+
+img{
+    border-radius: 20px;
+    height: 80%;
+    width: 80%;
+
+}
+.text-container {
+    font-family: 'Outfit', 'Times New Roman', Times, serif;
+    margin: 25px 0;
+    text-align: center;
+}
+
+
